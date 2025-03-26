@@ -36,7 +36,7 @@ This project focuses on designing and implementing a data analysis pipeline usin
 Feel free to connect with me through the following:
 - **Email**: [atcharee.nimman@gmail.com](mailto:atcharee.nimman@gmail.com/)
 - **LinkedIn**: [Atcharee Nimmansethakul LinkedIn](https://www.linkedin.com/in/atcharee-nim/)
-- **GitHub**: [Atcharee Nimmansethakul GitHub](https://atchareen.github.io/)
+- **GitHub**: [Atcharee Nimmansethakul GitHub](https://github.com/atchareen)
 
 ---
 
